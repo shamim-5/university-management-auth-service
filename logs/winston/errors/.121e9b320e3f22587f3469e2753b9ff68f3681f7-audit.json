@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Projects\\Next_Level_Web_development\\backend-braniac\\university-management-auth-service\\logs\\winston\\errors\\.121e9b320e3f22587f3469e2753b9ff68f3681f7-audit.json",
+    "files": [
+        {
+            "date": 1686163626348,
+            "name": "C:\\Projects\\Next_Level_Web_development\\backend-braniac\\university-management-auth-service\\logs\\winston\\errors\\um-2023-08-06-00-error.log",
+            "hash": "8491f2379f008e35058f6e7ea3c7e79c7347578d35a5322df6a7e0032192adc9"
+        }
+    ],
+    "hashType": "sha256"
+}
